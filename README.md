@@ -23,16 +23,19 @@ To ensure data quality, the dataset undergoes multiple cleaning steps:
 
 ### 1. Size Analysis
    - A **count plot** visualizes the distribution of purchases by product size, with M-Size being the most frequently bought.
+   - 
      ![image](https://github.com/user-attachments/assets/9ff7376b-2392-4d96-bc17-133b0c470b09)
 
 
 ### 2. Product Size Grouping
    - Grouped data provides a breakdown of quantity sold by size, confirming that **M-Size items dominate sales**.
+     
      ![image](https://github.com/user-attachments/assets/f25dc71b-5662-4e42-8f79-529de63e3c72)
 
   
 ### 3. Shipping and Order Status
    - An analysis of shipping and order statuses reveals that a **majority of orders are shipped via courier**.
+     
      ![image](https://github.com/user-attachments/assets/d22290a6-72f1-44f9-a7c2-2a83f564c869)
      ![image](https://github.com/user-attachments/assets/bce18343-73fe-40d9-b0aa-7adc9e32126a)
 
