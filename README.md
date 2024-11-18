@@ -47,6 +47,7 @@ To ensure data quality, the dataset undergoes multiple cleaning steps:
 
 ### 5. B2B Analysis
    - A **pie chart** displays the split between Business-to-Business (B2B) and retailer buyers, where **retailers account for 99.2% of purchases**.
+     
      ![image](https://github.com/user-attachments/assets/06b59afe-eca8-4260-8cd8-d4b6bc457ad4)
 
 
